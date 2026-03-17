@@ -1,1 +1,0 @@
-, then multiplied by 3

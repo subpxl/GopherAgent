@@ -1,0 +1,6 @@
+CURL -X POST http://localhost:8080/ask \
+  -H "Content-Type: application/json" \
+  -d '{"question":"what is 128 / 4 then * 3"}'
+
+  ###
+  
